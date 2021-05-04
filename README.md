@@ -14,3 +14,12 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+<table>
+  <tbody>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/Jufrenbarasa/Kantin_Matana/master/screenshoots/Screenshot_1608910703.png" /></td>
+      <td><img src="https://raw.githubusercontent.com/Jufrenbarasa/Kantin_Matana/master/screenshoots/Screenshot_1608910716.png" /></td>
+    </tr>
+  </tbody>
+</table>
