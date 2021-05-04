@@ -2,6 +2,15 @@
 
 A new Flutter application.
 
+<table>
+  <tbody>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/Jufrenbarasa/Kantin_Matana/master/screenshoots/Screenshot_1608910703.png" /></td>
+      <td><img src="https://raw.githubusercontent.com/Jufrenbarasa/Kantin_Matana/master/screenshoots/Screenshot_1608910716.png" /></td>
+    </tr>
+  </tbody>
+</table>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
